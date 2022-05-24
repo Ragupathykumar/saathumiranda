@@ -12,6 +12,6 @@ public class Mastered {
 				System.out.print("* ");
 			}
 			System.out.println();
-
+System.out.println();
 }
 }}
